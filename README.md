@@ -22,22 +22,6 @@ El propósito de este proyecto es identificar patrones de comportamiento y carac
 
 ---
 
-## 📂 Estructura del proyecto
-
-```
-📁 proyecto-churn/
-│
-├── 📄 README.md
-├── 📄 churn_analysis.ipynb         # Notebook principal del análisis
-├── 📁 data/                        # Carpeta con los datasets utilizados
-│   └── telco_churn.csv
-├── 📁 img/                         # Imágenes y visualizaciones exportadas
-│   └── charts/
-└── 📄 requirements.txt             # Dependencias necesarias
-```
-
----
-
 ## ⚙️ Instalación
 
 1. Clona este repositorio:
@@ -103,12 +87,5 @@ Sigue las secciones del análisis paso a paso:
 
 ---
 
-## 📬 Contacto
-
-Desarrollado por **[Tu Nombre]**  
-📧 correo@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/tu-perfil)
-
----
 
 > Este proyecto forma parte de un desafío de análisis de datos enfocado en problemas de negocio reales. 🚀
